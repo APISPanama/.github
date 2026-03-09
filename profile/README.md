@@ -23,14 +23,7 @@ Entre las actividades promovidas por APIS se incluyen:
 
 ## Participar
 
-APIS está abierta a profesionales interesados en la informática en salud, incluyendo:
-
-- médicos
-- enfermería
-- ingenieros
-- científicos de datos
-- investigadores
-- gestores de salud
+APIS está abierta a profesionales interesados en la informática en salud, incluyendo: médicos, enfermeras, ingenieros, científicos de datos, investigadores, gestores de salud y otros afines.
 
 La participación formal en la asociación se realiza mediante membresía, la cual permite formar parte de la comunidad profesional, participar en actividades académicas, iniciativas colaborativas y espacios de desarrollo de la informática en salud en Panamá.
 La información sobre categorías de membresía y proceso de afiliación será publicada a través de los canales oficiales de la asociación.

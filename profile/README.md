@@ -6,7 +6,7 @@ Nuestra misión es fomentar el uso responsable de las tecnologías de informaci�
 ### Objetivos
 
 APIS busca:
-- Promover la informática biomédica y de salud como disciplina en Panamá
+- Promover la informática en salud como disciplina en Panamá
 - Facilitar la colaboración entre profesionales de salud, ingenieros, investigadores y gestores
 - Impulsar la educación y capacitación en salud digital
 - Promover el uso de estándares e interoperabilidad en sistemas de información en salud
@@ -32,4 +32,5 @@ APIS está abierta a profesionales interesados en la informática en salud, incl
 - investigadores
 - gestores de salud
 
-Si desea colaborar con alguno de los proyectos publicados aquí, puede abrir un Issue o Pull Request en el repositorio correspondiente.
+La participación formal en la asociación se realiza mediante membresía, la cual permite formar parte de la comunidad profesional, participar en actividades académicas, iniciativas colaborativas y espacios de desarrollo de la informática en salud en Panamá.
+La información sobre categorías de membresía y proceso de afiliación será publicada a través de los canales oficiales de la asociación.
